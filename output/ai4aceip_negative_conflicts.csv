@@ -1,0 +1,17 @@
+sequence,length,ai4aceip_label,ai4aceip_occurrence_count,standard_sequence,present_in_ahtpdb_positive,present_in_biopep_previous_positive,label_conflict,negative_evidence_status
+AMPKPW,6,0,1,True,True,True,True,conflicts_with_positive_evidence
+DLTDY,5,0,1,True,True,False,True,conflicts_with_positive_evidence
+FFVAPFPGVFGK,12,0,1,True,True,False,True,conflicts_with_positive_evidence
+HLPLPL,6,0,1,True,True,False,True,conflicts_with_positive_evidence
+KDQDK,5,0,1,True,True,False,True,conflicts_with_positive_evidence
+KRNKNNIA,8,0,1,True,False,True,True,conflicts_with_positive_evidence
+LPLPLL,6,0,1,True,False,True,True,conflicts_with_positive_evidence
+LPYPYY,6,0,2,True,True,False,True,conflicts_with_positive_evidence
+MPVHTDAD,8,0,1,True,False,True,True,conflicts_with_positive_evidence
+RADHP,5,0,1,True,True,False,True,conflicts_with_positive_evidence
+RPLKPW,6,0,2,True,True,False,True,conflicts_with_positive_evidence
+RRWQWR,6,0,1,True,True,True,True,conflicts_with_positive_evidence
+YAKPVA,6,0,1,True,True,False,True,conflicts_with_positive_evidence
+YIEAVNKVSPRAGQF,15,0,1,True,False,True,True,conflicts_with_positive_evidence
+YLGYLE,6,0,2,True,False,True,True,conflicts_with_positive_evidence
+YPFVEP,6,0,2,True,False,True,True,conflicts_with_positive_evidence

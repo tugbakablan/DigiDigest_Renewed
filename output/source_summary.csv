@@ -1,0 +1,10 @@
+source,record_count,unique_sequence_count,duplicate_record_count,invalid_standard_sequence_count,minimum_length,median_length,maximum_length
+AHTPDB_small,4445,1021,3424,6,2,3.0,5
+AHTPDB_long,1533,673,860,30,6,8.0,50
+AHTPDB_ic50,3364,1257,2107,0,2,4.0,50
+BIOPEP_previous,649,649,0,0,5,7.0,25
+BIOPEP_toxicity_enriched,652,649,3,0,5,7.0,25
+BIOPEP_digestion_enriched,652,649,3,0,5,7.0,25
+AI4ACEIP_positive,1070,887,183,0,5,6.0,82
+AI4ACEIP_negative,1811,1750,61,0,5,12.0,101
+BIOPEP_UWM_2026_export,1278,1262,16,6,2,5.0,25

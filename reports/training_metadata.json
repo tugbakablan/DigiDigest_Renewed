@@ -1,0 +1,7 @@
+{
+  "random_state": 42,
+  "classifier_model": "sequence_extra_trees",
+  "regression_model": "sequence_extra_trees",
+  "classifier_records": 1792,
+  "regression_records": 1176
+}

@@ -1,0 +1,7 @@
+ID,Name,Sequence,Chemical mass,Monoisotopic mass,Activity,InChIKey,standard_sequence,length
+3193,ACE inhibitor,JGLPPGPPIPP,941.1214,940.5365,ACE inhibitor,UALXDFDEASGIQC-BMBRTWATSA-N,False,11
+10579,ACE inhibitor,{THEA}{THEA}P,427.4939,427.2423,ACE inhibitor,HUEBKMFIYKSSCN-IHRRRGAJSA-N,False,13
+10580,ACE inhibitor,{GABA}{GABA}P,285.3385,285.1683,ACE inhibitor,MHLNQBBEZHBNIZ-JTQLQIEISA-N,False,13
+10581,ACE inhibitor,{THEA}{GABA}P,356.4162,356.2053,ACE inhibitor,UBLAAZCLQXSOSA-RYUDHWBXSA-N,False,13
+10582,ACE inhibitor,{GABA}{THEA}P,356.4162,356.2053,ACE inhibitor,BHUWAYXVIXOXDO-RYUDHWBXSA-N,False,13
+10862,Inhibitor of citrate lyase deacetylase,{E;5}E,276.2426,276.0953,citrate lyase deacetylase inhibitor,OWQDWQKWSLFFFR-WDSKDSINSA-N,False,6
